@@ -17,5 +17,6 @@ public class Demo2Git {
         // TODO code application logic here
         System.out.print("allo");
         System.out.print("bonjour");
+        System.out.print("bonjour4");
     }
 }
